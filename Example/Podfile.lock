@@ -1,0 +1,22 @@
+PODS:
+  - Expecta (1.0.6)
+  - podTestLibrary (0.1.0)
+  - Specta (1.0.7)
+
+DEPENDENCIES:
+  - Expecta
+  - podTestLibrary (from `../`)
+  - Specta
+
+EXTERNAL SOURCES:
+  podTestLibrary:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
+  podTestLibrary: 219085952c220d3668c703855fca4fa7a94c50f6
+  Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
+
+PODFILE CHECKSUM: a6e7380d6f10f56dfb6deceeed270c39459f3f7a
+
+COCOAPODS: 1.2.1
